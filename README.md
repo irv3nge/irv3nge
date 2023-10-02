@@ -26,7 +26,7 @@
   ## 🚀 Sobre Mim
   <section>
   <ul>
-<li>🎓 Estudante na FIAP em ADS</li>
+<li>🎓 Estudante de ADS na FIAP</li>
 <li>☕ Apaixonado por Java e Tecnologias Relacionadas</li>
 <li>🌐 Explorando o Universo da Programação Web</li>
 <li>📚 Sempre Aprendendo e Compartilhando Conhecimento</li>
