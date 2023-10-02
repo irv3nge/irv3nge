@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**irv3nge/irv3nge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Olá, eu sou Pedro Jorge
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroojfp_/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-jorge-28815727b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![irv3nge GitHub stats](https://github-readme-stats.vercel.app/api?username=irv3nge&show_icons=true&theme=dracula)
+
+
+<section>
+    <h2>🛠️ Tecnologias e Ferramentas</h2>
+    <ul>
+      <li>Linguagens de Programação: Java, Python , HTML & CSS</li>
+      <li>Frameworks e Bibliotecas: Spring Framework, Hibernate</li>
+      <li>Banco de Dados: MySQL, PostgreSQL</li>
+      <li>Ferramentas de Desenvolvimento: IntelliJ IDEA, Eclipse, Git</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contribuições</h2>
+    <p>Contribuições são sempre bem-vindas! Se você encontrar algo que possa ser melhorado nos meus projetos ou tiver sugestões, fique à vontade para abrir uma <em>issue</em> ou enviar um <em>pull request</em>.</p>
+  </section>
+
+  ## 🚀 Sobre Mim
+  <section>
+  <ul>
+<li>🎓 Estudante na FIAP em ADS</li>
+<li>☕ Apaixonado por Java e Tecnologias Relacionadas</li>
+<li>🌐 Explorando o Universo da Programação Web</li>
+<li>📚 Sempre Aprendendo e Compartilhando Conhecimento</li>
+ </ul>
+  </section>
+
+
