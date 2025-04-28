@@ -11,7 +11,7 @@
 <section>
     <h2>🛠️ Tecnologias e Ferramentas</h2>
     <ul>
-      <li>Linguagens de Programação: Java, Python , HTML & CSS</li>
+      <li>Linguagens de Programação: Java, Python </li>
       <li>Frameworks e Bibliotecas: Spring Framework, Hibernate</li>
       <li>Banco de Dados: MySQL, PostgreSQL</li>
       <li>Ferramentas de Desenvolvimento: IntelliJ IDEA, Eclipse, Git</li>
